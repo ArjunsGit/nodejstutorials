@@ -1,0 +1,11 @@
+{
+	"author" : "Arjun",
+	"name" : "usermodule",
+	"version" : "0.1.1",
+	"description" : "Application user module",
+	"main" : "applicationuser",
+	"dependencies": {},
+	"engines": {
+		"node" : "*"
+	}
+}
